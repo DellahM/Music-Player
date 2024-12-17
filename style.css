@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   background :linear-gradient(rgb(105, 105, 228),rgb(26, 23, 23));
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.player {
+    text-align: center;
+    background:linear-gradient( #71369d ,rgb(162, 37, 37));
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.controls {
+    margin: 20px 0;
+}
+
+button {
+    background: linear-gradient(#61dafb, #047a9a);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #21a1f1;
+}
