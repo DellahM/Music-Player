@@ -1,5 +1,5 @@
 # Music-Player
-# Simple Music Player
+
 
 This project is a simple music player built using HTML, CSS, and JavaScript. It allows users to play, pause, and navigate through a list of audio tracks. The player features a clean interface and basic controls for an enjoyable listening experience.
 
